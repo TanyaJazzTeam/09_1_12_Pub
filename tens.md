@@ -18,7 +18,6 @@ can work on billion-user systems. Fairness Indicators will allow you to evaluate
 across any size of use case, in the TensorBoard environment or in
 [Colab](https://github.com/tensorflow/fairness-indicators).
 
-## Requirements
 
 To install Fairness Indicators for TensorBoard, run:
 
